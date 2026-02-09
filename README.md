@@ -33,11 +33,11 @@ The mini LED is just ON as a static light with a red color.
 # BOM:
 Here is everything you need to make this hackpad.
 
-3x Cherry MX Switches
-3x DSA Keycaps
-1x EC11 Rotary encoder
-1x SK6812 MINI-E LED
-1x Seeed XIAO RP2040
-4x M3x5x4 Heatset inserts
-4x M3x16mm Screws
+3x Cherry MX Switches<br>
+3x DSA Keycaps<br>
+1x EC11 Rotary encoder<br>
+1x SK6812 MINI-E LED<br>
+1x Seeed XIAO RP2040<br>
+4x M3x5x4 Heatset inserts<br>
+4x M3x16mm Screws<br>
 1x Case (two 3D printed parts, the base where the PCB sits and the top cover)
